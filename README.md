@@ -11,3 +11,4 @@ Fundza is an e-learning platform that comprises of a catalogue of free courses t
 If the user would like to receive special attention and/or mentorship/tutorship they have the option of subscribing to a paid course. This includes joining the classroom that will be monitored and managed by a tutor/facilitator.
 
   
+  
