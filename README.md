@@ -1,6 +1,6 @@
 # Fundza - E-learning Platform
 
-![alt text](https://github.com/reacodacode/fundza/blob/master/assets/img/landingpage_fundza.png)
+![alt text](https://github.com/reacodacode/fundza/blob/master/assets/img/landingpage_fundza-crop.png)
 
 ## Introduction: 
 
