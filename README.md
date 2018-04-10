@@ -1,6 +1,8 @@
+#Fundza - E-learning Platform
+
 ![alt text](https://github.com/reacodacode/fundza/blob/master/assets/img/landingpage_fundza.png)
 
-Introduction: 
+##Introduction: 
 
 In the wake of the #FreeEducation students protest across South Africa it is clear that there is a need for a more inclusive solution that comprises of high quality, free and open-source learning material that will ensure the success of all students that subscribes to it. 
 
