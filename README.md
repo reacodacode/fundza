@@ -18,7 +18,7 @@ If the user would like to receive special attention and/or mentorship/tutorship 
 
 The Fundza platform allows both the tutor and the students to register for an account. The tutor has the privilledges to create a classroom that the students will be able to join. 
 
-![alt text] (https://github.com/reacodacode/fundza/blob/master/assets/img/signup_fundza-crop.png)
+![alt text](https://github.com/reacodacode/fundza/blob/master/assets/img/signup_fundza-crop.png)
 
 The tutor can create courses and quizzes that the students can take in order to supplement in-contact classes/lessons. The Tutor can choose to make the courses free or be paid for. The free courses will be available publicly whereas the paid ones will be available privately to the students in that subscribe to the tutor's classes. 
 
